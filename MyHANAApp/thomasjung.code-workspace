@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "MyHANAApp",
+			"path": "."
+		}
+	],
+	"settings": {
+		"SAP HANA Database Explorer.displaySapWebAnalyticsStartupNotification": false,
+		"sqltools.connections": [
+			{
+				"connectionTimeout": 30,
+				"hanaOptions": {
+					"encrypt": true,
+					"sslValidateCertificate": true,
+					"sslCryptoProvider": "openssl"
+				},
+				"previewLimit": 50,
+				"driver": "SAPHana",
+				"name": "HanaSchem",
+				"server": "695536e9-f562-4267-8d15-c7c1f3347b57.hna0.prod-us10.hanacloud.ondemand.com",
+				"port": 443,
+				"database": "9D1DB232B5954CA393FD823B87034F79",
+				"username": "9D1DB232B5954CA393FD823B87034F79_59R5BMY0M5BQNZOPYHHKJR469_DT",
+				"password": "aLBIEhERBIE1!"
+			}
+		]
+	}
+}
